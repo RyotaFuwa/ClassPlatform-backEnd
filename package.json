@@ -1,0 +1,21 @@
+{
+  "name": "backEnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.8",
+    "node": "^14.4.0",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "titlize": "^0.1.1"
+  }
+}
