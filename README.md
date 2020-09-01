@@ -1,3 +1,3 @@
 # ClassPlatform-backEnd
-## Warning: This project is decapricated. the backend of ClassPlatform app is now running based on firebase.
+## Warning: This project is decapricated. ClassPlatform app is now running with firebase.
 
